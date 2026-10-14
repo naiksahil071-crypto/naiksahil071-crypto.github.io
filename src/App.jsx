@@ -120,16 +120,16 @@ function App() {
             <div className="hero-meta">
               <span className="chip live">
                 <span className="pulse-dot"></span>
-                Open to Internships
+                Open to Full-Time & Internships
               </span>
-              <span className="chip">BE Computer Engineering · 2027</span>
+              <span className="chip">4th Year (Final Year) · BE Comp Eng</span>
               <span className="chip">Pillai HOC College</span>
             </div>
             <h1>
               Building reliable software with <span className="highlight">Java</span>, <span className="highlight">SQL</span> & <span className="highlight">Python</span>.
             </h1>
             <p className="hero-lead">
-              I am Sahil Naik, a third-year Computer Engineering undergrad focusing on backend logic, clean Object-Oriented design, and relational database systems.
+              I am Sahil Naik, a final-year (4th year) Computer Engineering undergrad focusing on backend logic, clean Object-Oriented design, and relational database systems.
             </p>
             <div className="hero-actions">
               <a className="btn btn-primary" href="#work">
@@ -176,7 +176,7 @@ function App() {
             <div className="about-grid">
               <div className="about-copy">
                 <p>
-                  I am a Computer Engineering student (graduating in 2027) targeting software development and backend engineering roles.
+                  I am a final-year (4th year) Computer Engineering student at Pillai HOC College targeting software development and backend engineering roles.
                 </p>
                 <p>
                   My focus centers on solid fundamentals: Object-Oriented Programming (OOP), Data Structures & Algorithms, writing clean, maintainable logic, and relational database queries.
@@ -287,7 +287,7 @@ function App() {
             </div>
             <div className="edu-grid">
               <article className="edu-card">
-                <span className="edu-badge">Degree in Progress</span>
+                <span className="edu-badge">Final Year (4th Year)</span>
                 <h3>Bachelor of Engineering in Computer Engineering</h3>
                 <p className="edu-school">
                   Pillai HOC College of Engineering and Technology, Rasayani, Maharashtra
